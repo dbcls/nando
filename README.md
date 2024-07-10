@@ -22,12 +22,12 @@ The Nanbyo Disease Ontology (NANDO) is a structured resource that organizes voca
 | # of classes which include links to MONDO | `2154` | `892` | `1262` |
 
 
-## licens
+## Licens
 - <a href="https://creativecommons.org/licenses/by/4.0/deed.ja">CC-BY 4.0</a> | <a href="http://dbcls.rois.ac.jp">DBCLS</a>
 
 
 ## Contact
-- For requests to add new terms, request class modifications, or report issues or questions regarding the ontology, please use the [Issue tracker](https://github.com/aidrd/nando/issues) of this repository.
+- For requests to add new terms, request class modifications, or report issues or questions regarding the ontology, please use the [Issue tracker](https://github.com/dbcls/nando/issues) of this repository.
 
   
 ## Sources
