@@ -16,6 +16,7 @@ The Nanbyo Disease Ontology (NANDO) is a structured resource that organizes voca
 
 
 ## Statistics
+- release/2023-11-27
 || All diseases | Designated intractable diseases | Specific chronic pediatric diseases |
 | --- | ---: | ---: | ---: |
 | # of classes | `2,775` | `1,099` | `1,676` |
